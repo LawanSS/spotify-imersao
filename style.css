@@ -168,3 +168,38 @@ body {
     margin: 8px;
     padding: 8px;
 }
+
+.disclaimer-premium {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: linear-gradient(to right, #a01486, #2467b9);
+    padding: 15px 40px;
+}
+
+.disclaimer-premium .text {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+}
+
+.disclaimer-premium .disclaimer-premium__title {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.disclaimer-premium .disclaimer-premium__subtitle {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.disclaimer-premium button {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 30px;
+    border: 0px;
+    border-radius: 40px;
+}
