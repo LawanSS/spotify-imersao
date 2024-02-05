@@ -51,7 +51,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    height: 58vh;
+    height: 70vh;
     background-color: #121212;
     border-radius: 8px;
     padding: 4px 8px;
@@ -139,7 +139,7 @@ body {
 }
 
 .sidebar .cookies {
-    margin: 25px 20px;
+    margin: 200px 0px 0px 20px;
 
 }
 

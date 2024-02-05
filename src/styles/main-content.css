@@ -98,7 +98,7 @@
 /* PLAYLIST */
 
 .playlist-container {
-  height: 68vh;
+  height: 78vh;
   padding-top: 16px;
   margin: 10px;
   border-radius: 10px;
@@ -124,7 +124,7 @@
 
 /* SCROLL */
 .offer__scroll-container {
-  max-height: 43vh;
+  max-height: 55vh;
   margin: 24px;
   overflow-y: auto;
 }
@@ -153,11 +153,12 @@
 
 .cards {
   position: relative; 
-  width: 220px;
+  width: 190px;
   height: 200px;
   overflow: hidden;
   border-radius: 8px;
 }
+
 
 .cards span {
   padding: 16px;

@@ -1,5 +1,19 @@
 @media screen and (max-width: 1000px){
+
+
+    .main-container {
+        margin-right: 5px;
+    }
+
+    .playlist-container {
+        height: 75vh;
+    }
+
     .offer__list-item {
         grid-template-columns: 1fr 1fr;
+    }
+
+    .library {
+        height: 66vh;
     }
 }
