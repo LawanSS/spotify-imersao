@@ -14,7 +14,7 @@ Este repositório foi criado como parte da imersão da Alura com o propósito de
 &nbsp;
 ## 💻 Instalação e execução
 
-#### Clone este repositório, e tenha em sua máquina o [GIt](https://git-scm.com/) e [Node.js](https:/nodejs.org/en/download/current).
+Clone este repositório, e tenha em sua máquina o [GIt](https://git-scm.com/) e [Node.js](https:/nodejs.org/en/download/current).
 
 &nbsp;
 
