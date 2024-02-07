@@ -268,11 +268,11 @@
 }
 
 .artist-img {
-  height: 100%;
-  left: 0;
+  height: 80%;
+  left: 25px;
   position: absolute;
   top: 0;
-  width: 100%;
+  width: 80%;
   border-radius: 50%;
 }
 
