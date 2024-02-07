@@ -146,7 +146,6 @@
   gap: 16px;
   margin-bottom: 16px;
   display: grid;
-  gap: 16px;
   grid-gap: 32px;
   margin: 0 auto;
 }
@@ -158,7 +157,6 @@
   overflow: hidden;
   border-radius: 8px;
 }
-
 
 .cards span {
   padding: 16px;
