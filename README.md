@@ -9,7 +9,15 @@
 
 ## ✏️Descrição do Projeto
 
-Este repositório foi criado como parte da imersão da Alura com o propósito de reforçar e explorar na prática alguns conceitos de HTML, CSS e JavaScript. O projeto consiste em uma página no estilo do Spotify, onde os usuários podem explorar artistas. Uma API foi desenvolvida em JSON para realizar a busca desses artistas.
+Este repositório foi criado como parte da imersão da Alura com o propósito de reforçar e explorar na prática alguns conceitos de HTML, CSS e JavaScript. O projeto consiste em uma página no estilo do Spotify, onde os usuários podem explorar artistas. Uma "Fake API" foi desenvolvida e um servidor JSON foi integrado possibilitando o consumo da "Fake API" via JavaScript, assim efetuando a busca desses artistas.
+
+&nbsp;
+
+## 🎬Demonstração
+
+<p align="center">
+<img src="src/assets/demonstração.gif">
+</p>
 
 &nbsp;
 ## 💻 Instalação e execução
