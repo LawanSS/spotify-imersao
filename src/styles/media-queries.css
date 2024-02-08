@@ -11,10 +11,11 @@
 
     /* Dispositivos móveis */
 
+
     .main-container {
-        max-width: 52vw;
+        max-width: 62vw;
         height: 100vh;
-        margin-left: 238px;
+        margin-left: 250px;
         margin-right: 1px;
     }
 
@@ -24,7 +25,7 @@
     }
 
     .library {
-        height: 67vh;
+        height: 66vh;
     }
 
     /* END SIDEBAR */
@@ -91,15 +92,6 @@
         height: 180px;
       }
 
-    .artist-img {
-        height: 80%;
-        left: 17px;
-        position: absolute;
-        top: 0;
-        width: 80%;
-        border-radius: 50%;
-      }
-
     .play .fa-play {
         right: 5px;
         top: 108px;
@@ -109,7 +101,7 @@
 
       .disclaimer-premium {
         padding: 15px 8px;
-        width: 81vw;
+        width: 96vw;
     }
 
     .disclaimer-premium .disclaimer-premium__subtitle {
