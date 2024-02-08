@@ -21,13 +21,18 @@
 }
 
 .library {
-    height: 66vh;
+    height: 60vh;
 }
 
 .languages .languages__button {
     width: 160px;
     padding: 8px;
     margin: 0px
+}
+
+.sidebar .cookies {
+    margin: 50px 0px 0px 20px;
+
 }
 
 /* END SIDEBAR */
@@ -71,7 +76,7 @@
 /* END HEADER */
 
 .playlist-container {
-    height: 77vh;
+    height: 71vh;
     padding-top: 15px;
     margin: 10px 0px 10px 10px;
 }
@@ -81,7 +86,7 @@
     }
 
 .offer__scroll-container {
-    max-height: 50vh;
+    max-height: 49vh;
     margin: 15px;
     overflow-y: auto;
     }
@@ -229,7 +234,8 @@
         padding: 10px 15px;
     }
     
-    }
+}
+
 @media screen and (min-width: 769px) and (max-width: 992px){
 
 .main-container {
@@ -394,4 +400,4 @@
     /*END CARD ARTIST */
     
     
-    }
+}
