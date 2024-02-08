@@ -87,15 +87,15 @@
     }
 
 .offer__list-item {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 10px;
 }
 
 /* END PLAYLIST */
 
 .cards {
-    width: 120px;
-    height: 130px;
+    width: 130px;
+    height: 140px;
     }
 
 .play .fa-play {
