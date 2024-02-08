@@ -138,7 +138,12 @@
 }
 
 .library {
-    height: 66vh;
+    height: 60vh;
+}
+
+.sidebar .cookies {
+    margin: 100px 0px 0px 20px;
+
 }
 
 /* END SIDEBAR */
@@ -180,13 +185,13 @@
 /* END HEADER */
 
 .playlist-container {
-    height: 77vh;
+    height: 71vh;
     padding-top: 15px;
     margin: 4px 0px 10px 10px;
 }
 
 .offer__scroll-container {
-    max-height: 55vh;
+    max-height: 45vh;
     margin: 15px;
     overflow-y: auto;
   }
@@ -199,8 +204,8 @@
 /* END PLAYLIST */
 
 .cards {
-    width: 130px;
-    height: 140px;
+    width: 120px;
+    height: 130px;
   }
 
 .play .fa-play {
