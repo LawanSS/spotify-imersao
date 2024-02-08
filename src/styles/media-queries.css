@@ -115,3 +115,112 @@
     }
 
 }
+
+@media screen and (oriention: portrait) {
+    
+     /* Dispositivos móveis */
+
+
+     .main-container {
+        max-width: 62vw;
+        height: 100vh;
+        margin-left: 250px;
+        margin-right: 1px;
+    }
+
+    .sidebar {
+        width: 230px;
+        padding: 1px 9PX;
+    }
+
+    .library {
+        height: 66vh;
+    }
+
+    /* END SIDEBAR */
+
+    .header__navigation {
+        
+        padding: 16px;
+        margin: 1px 1px 0px 10px;
+      }
+
+    .header__navigation .navigation .arrow-left {
+        margin-right: 10px;
+      }
+
+    .arrow-left, .arrow-right {
+        width: 29px;
+        height: 29px;
+    }
+
+    .header__search {
+        width: 139px;
+        height: 48px;
+      }
+
+    .header__search input {
+        padding: 0px 10px 0px 12px;
+    }
+
+    .header__login .subscribe {
+        font-size: 13px;
+        font-weight: 700;
+        margin-right: 1px;
+      }
+
+    .header__login .login {
+        width: 70px;
+        height: 38px;
+        font-size: 13px;
+    }
+
+    /* END HEADER */
+
+    .playlist-container {
+        height: 75vh;
+        padding-top: 15px;
+        margin: 10px 0px 10px 10px;
+    }
+
+    .offer__scroll-container {
+        max-height: 55vh;
+        margin: 15px;
+        overflow-y: auto;
+      }
+
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+
+    /* END PLAYLIST */
+
+    .cards {
+        width: 170px;
+        height: 180px;
+      }
+
+    .play .fa-play {
+        right: 5px;
+        top: 108px;
+      }
+
+      /*END CARD ARTIST */
+
+      .disclaimer-premium {
+        padding: 15px 8px;
+        width: 96vw;
+    }
+
+    .disclaimer-premium .disclaimer-premium__subtitle {
+        padding: 10px 0px;
+        font-size: 14px;
+    }
+
+    .disclaimer-premium button {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+
+}
