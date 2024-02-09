@@ -32,10 +32,16 @@ Primeiro instale o Json-server na versão 0.16.3:
 npm install -g json-server@0.16.3
 ```
 
-Habilitar com diretório onde foi salvo arquivo :
+Habilitar no diretório onde foi salvo o arquivo :
 
 ```
-json-server --watch Seu-diretório\spotify-imersao-alura\api-artists\artists.json --port 3000
+json-server --watch Seu-diretório\spotify-imersao\api-artists\artists.json --port 3000
+```
+
+
+__Caso o terminal não reconheça o comando anterior:__
+```
+npx json-server --watch Seu-diretório\spotify-imersao\api-artists\artists.json db.json --port 3000
 ```
 
 &nbsp;
