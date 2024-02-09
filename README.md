@@ -2,7 +2,7 @@
 
 
 
-| ![Static Badge](https://img.shields.io/badge/Node%20-%20v21.6.1-blue) | ![Static Badge](https://img.shields.io/badge/Json_server%20-%20v0.16.3-blue) | ![Static Badge](https://img.shields.io/badge/Repo%20size%20-%20973%20kb-blue) | ![Static Badge](https://img.shields.io/badge/License%20-%20Not%20specified-blue) |
+| ![Static Badge](https://img.shields.io/badge/Node%20-%20v21.6.1-blue) | ![Static Badge](https://img.shields.io/badge/Json_server%20-%20v0.16.3-blue) | ![Static Badge](https://img.shields.io/badge/Repo%20size%20-%201.68%20MB-blue) | ![Static Badge](https://img.shields.io/badge/License%20-%20Not%20specified-blue) |
 |---|---|---|---|
 
 &nbsp;
